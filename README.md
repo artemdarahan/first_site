@@ -1,0 +1,1 @@
+Now I will tell a little about my first pet project. This site is intended for a company that provides design and innovation services. It is aimed at different categories of users, such as product managers, marketers, designers, developers and other professionals interested in improving product design and interface.
